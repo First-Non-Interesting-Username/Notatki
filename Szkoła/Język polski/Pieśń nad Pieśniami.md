@@ -14,4 +14,18 @@ Miłość nieskończona
 # 3 interpretacje:
 Żydowska: Miłość pomiędzy bogiem a Izraelem
 
-Chrześcijańska: 
+Chrześcijańska: Miłość pomiędzy Jezusem a Kościołem
+
+Dosłowna: To po prostu jest zwykła poezja miłosna LOL
+
+# end
+
+Obraz podobny to ogrodu Eden, do raju
+Gatunek: Erotka, Poezja miłosna
+
+Miłości:
+Eros (Seksualna)
+Carritas (Pochdząca od Boga, generalna)
+
+Język Biblijny
+P nad Ps jest czytana na ślubach

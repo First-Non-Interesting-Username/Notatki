@@ -18,3 +18,4 @@
 17. Z pustego i Salomon nie naleje
 18. Hiobowa wieść
 19. Oko za oko, ząb za ząb
+20. Walka Dawida z Goliatem
