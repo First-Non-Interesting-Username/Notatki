@@ -52,3 +52,17 @@ We wrote 3 tests last week - Past simple napisaliśmy
 For - Przez jakiś czas
 
 Since - Od jakiegoś czasu
+
+
+
+Nigdy nie byłem w Londynie - I have never been to London
+
+Tom jest w Londynie od wtorku - Tom has been in London since tuesday
+
+Nie mogę biegać bo skręciłem kostkę - I can't run because I have twisted my ankle
+
+Wyglądasz na zmęczonego, biegałeś? - You look tired, have you been running?
+
+Mówię od godziny i boli mnie gardło - I've been talking for a hour, and now my sur throat
+
+Kto nosił moje buty? Są brudne -  Who have been wearing my shoes? They haven't been as messy before.

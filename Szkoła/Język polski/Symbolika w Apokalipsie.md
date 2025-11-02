@@ -1,4 +1,4 @@
-Apokalipsa 1 3 razy ctrl -
+Apokalipsa 1 3 razy ctrl
 Miłosz, Ja, Natalia, Oliwier, Kuba, Krzyś, Hubert
 
 Mamy przedstwić o czym jest nasza część. Wyjaśnić symbole.
@@ -11,3 +11,39 @@ Ze względu na pochwalanie Boga oraz użycie słowa "Amen", pierwsza część ma
 Symbole:
 - Alfa i Omega - Początek i koniec
 - Liczba 7 (7 kościołów, 7 duchów) - Doskonałość
+
+6. Rozdział:
+- Opisuje otwarcie 6 pieczęci, z których każda symbolizuje jeden kataklizm
+- Pojawiają się jeźcy
+Symbole:
+- Baranek - Jezus
+- Czarny - Głód, zaraza
+- 6 - Niedoskonałość
+- 4 - 4 strony świata
+Jeźcy
+- Biały koń - zwycięctwo
+- Ognisty koń - Wojna
+- Czarny koń - Głód
+- Trupiobladyy koń - Śmierć
+
+12 Rozdział
+Symobole:
+- 12 - Dobro
+- Smok - Szatan
+- Niewiasta - Maryja, Izrael, Kościół
+
+13 Rozdział
+Symbole:
+- Bestia - Zło, władza
+- 42 - Czas próby
+
+
+- 3,5 - Cierpienie, czas próby
+- 1000 - Bardzo wiele
+
+Interpretacje Apokalipsy:
+- Kolejne etapy w dziejach ludzkości
+- Dosłowny opis końca świata
+- Opis czasów Jana
+
+

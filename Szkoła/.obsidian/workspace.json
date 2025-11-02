@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5903fee77caf12fd",
+        "id": "23af6255a1398715",
         "type": "tabs",
         "children": [
           {
-            "id": "fbf769bc3df52550",
+            "id": "51d86a1a538f7a17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Język polski/Symbolika w Apokalipsie.md",
+                "file": "English/Word formation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Symbolika w Apokalipsie"
+              "title": "Word formation"
             }
           }
         ]
@@ -166,30 +166,45 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fbf769bc3df52550",
+  "active": "51d86a1a538f7a17",
   "lastOpenFiles": [
-    "Język polski/Katkóweczka.md",
-    "Język polski/Symbolika w Apokalipsie.md",
-    "Język polski/Biblizmy.md",
-    "KDE Nixos.md",
+    "English/Zadanie.md",
+    "English/Praca domowa.md",
+    "Język polski/Mitologia.md",
+    "Pasted image 20251031123857.png",
+    "Excalidraw/Drawing 2025-10-30 13.31.25.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-30 13.32.56.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-30 13.30.06.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-30 13.29.12.excalidraw.md",
+    "Excalidraw",
+    "Historia/Ateny.md",
+    "Historia/Sparta.md",
+    "English/Word formation.md",
+    "English/My fashion icon.md",
+    "English/Science fiction or science fact?.md",
     "Język polski/Apokalipsa.md",
+    "KDE Nixos.md",
+    "Untitled.md",
+    "Historia",
+    "English/Present past part 2.md",
+    "English/Present Perfect and Present Perfect continuous.md",
+    "2025-10-27.md",
+    "English/Untitled 1.md",
+    "English/Poprawa kartkówki w środę..md",
+    "Filozofia",
+    "Język polski/Symbolika w Apokalipsie.md",
+    "Pasted image 20251024133703.png",
+    "Język polski/Symbolika w Apokalipsie.md~",
+    "Język polski/Katkóweczka.md",
+    "Język polski/Biblizmy.md",
     "Język polski/Pieśń nad Pieśniami.md",
     "Język polski/Księga Psalmów.md",
-    "Język polski/Untitled 1.md",
-    "English/My fashion icon.md",
     "English/Steve_Jobs.jpg",
-    "English/Praca domowa.md",
-    "English/Present Perfect and Present Perfect continuous.md",
-    "English/Untitled.md",
-    "Jutro (21.10.2025).md",
-    "English/Zadanie.md",
-    "English/Poprawa kartkówki w środę..md",
     "English",
-    "Język polski/Apokalipsa1.md",
-    "Język polski",
-    "Welcome.md"
+    "Język polski"
   ]
 }
