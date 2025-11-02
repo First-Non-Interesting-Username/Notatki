@@ -167,11 +167,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "51d86a1a538f7a17",
   "lastOpenFiles": [
+    "KDE Nixos.md",
     "English/Zadanie.md",
     "English/Praca domowa.md",
     "Język polski/Mitologia.md",
@@ -187,7 +189,6 @@
     "English/My fashion icon.md",
     "English/Science fiction or science fact?.md",
     "Język polski/Apokalipsa.md",
-    "KDE Nixos.md",
     "Untitled.md",
     "Historia",
     "English/Present past part 2.md",
