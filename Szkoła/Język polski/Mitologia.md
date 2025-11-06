@@ -69,7 +69,9 @@ Syzyf:
 - Plotkarz
 
 3/112
-Według mnie przesłaniem mitu o Syzyfie jest to że, należy przestać robić coś co wiemy że jest słabe za pierwszym razem.
+Według mnie uniwersalnym przesłaniem mitu o Syzyfie jest to że, należy przestać robić coś co wiemy że jest słabe za pierwszym razem.
 
-1. Robiąc coś słabego wiele razy, za każdym razem to jest coraz bardziej ekstrymalne
+1. Robiąc coś słabego wiele razy, za każdym razem to jest coraz bardziej ekstremalne
 2. Jeśli nie przyjmiemy kary za pierwszym razem, to kolejne kary mogą być bardziej dotkliwe
+
+Motyw bezsensownej pracy
